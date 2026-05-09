@@ -1,7 +1,7 @@
 # Smart-Campus-AI-Decision-Support-and-Automation-System
 A smart automation solution for campus guide.
 
-Project Overview
+## Project Overview
 Smart Campus AI is a sophisticated, multi-modular decision-support system designed to automate and optimize campus management. It utilizes a custom-built AI pipeline that combines neural networks, symbolic logic, constraint satisfaction, and advanced search algorithms to handle requests ranging from academic scheduling to emergency services.
 The AI Pipeline Flow
 Every request follows a structured path through the Smart Campus AI Pipeline:
